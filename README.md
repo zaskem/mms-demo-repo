@@ -1,2 +1,2 @@
-# mmsflamingo-demo
-Demo Repo for MMS Flamingo Advaned Git Session
+# mms-demo-repo
+Demo Repo for MMS Git Sessions
